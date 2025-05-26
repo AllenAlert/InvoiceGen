@@ -1,2 +1,2 @@
 # InvoiceGen
-an invoice generator for my com pany/brand
+an invoice generator for my company/brand
